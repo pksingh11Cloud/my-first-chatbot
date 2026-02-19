@@ -2,7 +2,7 @@ import streamlit as st
 from google import genai
 
 # Page config
-st.set_page_config(page_title="Gemini Chatbot", page_icon="💬")
+st.set_page_config(page_title="Gemini Chatbot - By Prashant Singh", page_icon="💬")
 
 # Header
 st.title("💬 Gemini Chatbot")
